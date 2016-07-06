@@ -1,0 +1,28 @@
+{
+  "name": "admin",
+  "version": false,
+  "globalDependencies": {
+    "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "angular-animate": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-animate.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "angular-breadcrumb": "registry:dt/angular-breadcrumb#0.0.0+20160317151335",
+    "angular-cookies": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-cookies.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "angular-http-auth": "registry:dt/angular-http-auth#1.2.1+20160317120654",
+    "angular-local-storage": "registry:dt/angular-local-storage#0.1.5+20160602154142",
+    "angular-material": "registry:dt/angular-material#1.0.0-rc5.0+20160627174759",
+    "angular-mocks": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-mocks.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "angular-scroll": "registry:dt/angular-scroll#0.0.0+20160317120654",
+    "angular-translate": "registry:dt/angular-translate#2.4.0+20160505162438",
+    "angular-ui-router": "github:DefinitelyTyped/DefinitelyTyped/angular-ui-router/angular-ui-router.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "cordova/plugins/contacts": "registry:dt/cordova/plugins/contacts#0.0.0+20160316155526",
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "karma-jasmine": "github:DefinitelyTyped/DefinitelyTyped/karma-jasmine/karma-jasmine.d.ts#bb051830df88f5a55dcf06b7fe85bf6b62cc97f2",
+    "lodash": "registry:global/lodash#4.0.0+20160412191414",
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "moment-node": "registry:dt/moment-node#2.11.1+20160511043338",
+    "moment-range": "registry:dt/moment-range#2.0.3+20160317120654",
+    "oclazyload": "registry:dt/oclazyload#0.0.0+20160317120654",
+    "signalr": "registry:dt/signalr#2.2.0+20160509082439",
+    "socket.io-client": "registry:dt/socket.io-client#1.4.4+20160317120654"
+  }
+}

@@ -1,0 +1,32 @@
+
+<div layout="column" layout-align="center center" layout-fill>
+  <div class="loginBox md-whiteframe-z1 mdc-bg-white" layout="column">
+    <md-toolbar><h2 class="md-toolbar-tools"><span>Web Login</span></h2></md-toolbar>
+    <div class="md-no-momentum md-padding" layout="column">
+      <md-input-container class="md-block">
+        <!-- Use floating label instead of placeholder -->
+        <input ng-model="vm.loginData.serverUrl" type="text" placeholder="Server Url" ng-required="true">
+      </md-input-container>
+      <md-input-container class="md-block">
+        <input ng-model="vm.loginData.userName" type="text" placeholder="Device username" ng-required="true">
+      </md-input-container>
+      <md-input-container class="md-block">
+        <input ng-model="vm.loginData.password" type="password" placeholder="Password" ng-required="true">
+      </md-input-container>
+      <div layout="row" layout-align="center center" class="md-padding">
+        <md-button class="md-raised md-primary" ng-click="vm.login()">Login</md-button>
+      </div>
+
+
+  </div>
+    
+  </div>
+
+</div>
+
+
+
+
+
+
+
